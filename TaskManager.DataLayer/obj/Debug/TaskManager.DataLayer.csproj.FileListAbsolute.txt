@@ -1,0 +1,12 @@
+C:\Gokul\Capsule\TaskManagerService\TaskManager.DataLayer\bin\Debug\TaskManager.DataLayer.dll
+C:\Gokul\Capsule\TaskManagerService\TaskManager.DataLayer\bin\Debug\TaskManager.DataLayer.pdb
+C:\Gokul\Capsule\TaskManagerService\TaskManager.DataLayer\bin\Debug\EntityFramework.dll
+C:\Gokul\Capsule\TaskManagerService\TaskManager.DataLayer\bin\Debug\EntityFramework.SqlServer.dll
+C:\Gokul\Capsule\TaskManagerService\TaskManager.DataLayer\bin\Debug\TaskManager.EntityModel.dll
+C:\Gokul\Capsule\TaskManagerService\TaskManager.DataLayer\bin\Debug\TaskManager.EntityModel.pdb
+C:\Gokul\Capsule\TaskManagerService\TaskManager.DataLayer\bin\Debug\EntityFramework.xml
+C:\Gokul\Capsule\TaskManagerService\TaskManager.DataLayer\bin\Debug\EntityFramework.SqlServer.xml
+C:\Gokul\Capsule\TaskManagerService\TaskManager.DataLayer\obj\Debug\TaskManager.DataLayer.csprojResolveAssemblyReference.cache
+C:\Gokul\Capsule\TaskManagerService\TaskManager.DataLayer\obj\Debug\TaskManager.DataLayer.dll
+C:\Gokul\Capsule\TaskManagerService\TaskManager.DataLayer\obj\Debug\TaskManager.DataLayer.pdb
+C:\Gokul\Capsule\TaskManagerService\TaskManager.DataLayer\bin\Debug\TaskManager.DataLayer.dll.config

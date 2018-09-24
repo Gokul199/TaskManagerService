@@ -1,0 +1,4 @@
+C:\Gokul\Capsule\TaskManagerService\TaskManager.EntityModel\bin\Debug\TaskManager.EntityModel.dll
+C:\Gokul\Capsule\TaskManagerService\TaskManager.EntityModel\bin\Debug\TaskManager.EntityModel.pdb
+C:\Gokul\Capsule\TaskManagerService\TaskManager.EntityModel\obj\Debug\TaskManager.EntityModel.dll
+C:\Gokul\Capsule\TaskManagerService\TaskManager.EntityModel\obj\Debug\TaskManager.EntityModel.pdb
