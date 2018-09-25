@@ -1,3 +1,4 @@
+C:\Gokul\Capsule\TaskManagerService\TaskManager.DataLayer\bin\Debug\TaskManager.DataLayer.dll.config
 C:\Gokul\Capsule\TaskManagerService\TaskManager.DataLayer\bin\Debug\TaskManager.DataLayer.dll
 C:\Gokul\Capsule\TaskManagerService\TaskManager.DataLayer\bin\Debug\TaskManager.DataLayer.pdb
 C:\Gokul\Capsule\TaskManagerService\TaskManager.DataLayer\bin\Debug\EntityFramework.dll
@@ -9,4 +10,3 @@ C:\Gokul\Capsule\TaskManagerService\TaskManager.DataLayer\bin\Debug\EntityFramew
 C:\Gokul\Capsule\TaskManagerService\TaskManager.DataLayer\obj\Debug\TaskManager.DataLayer.csprojResolveAssemblyReference.cache
 C:\Gokul\Capsule\TaskManagerService\TaskManager.DataLayer\obj\Debug\TaskManager.DataLayer.dll
 C:\Gokul\Capsule\TaskManagerService\TaskManager.DataLayer\obj\Debug\TaskManager.DataLayer.pdb
-C:\Gokul\Capsule\TaskManagerService\TaskManager.DataLayer\bin\Debug\TaskManager.DataLayer.dll.config

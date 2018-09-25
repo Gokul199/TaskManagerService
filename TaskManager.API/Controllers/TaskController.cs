@@ -15,13 +15,13 @@ namespace TaskManager.API.Controllers
         /// <summary>
         /// To Add a new task
         /// </summary>
-        /// <param name="Task"></param>
+        /// <param name="task"></param>
         /// <returns></returns>        
-        public HttpResponseMessage AddTask([FromBody]TaskData Task)
+        public HttpResponseMessage AddTask([FromBody]TaskData task)
         {
             try
             {
-                TaskManagerBL.AddTask(Task);
+                TaskManagerBL.AddTask(task);
                 return Request.CreateResponse(HttpStatusCode.OK, "Success");
             }
             catch(Exception ex) 
@@ -39,16 +39,16 @@ namespace TaskManager.API.Controllers
             return TaskManagerBL.GetAllTasks();                       
         }
 
-        public TaskData Get(int ID)
+        public TaskData Get(int id)
         {
-            return TaskManagerBL.GetTask(ID);
+            return TaskManagerBL.GetTask(id);
         }
         [HttpPut]
-        public HttpResponseMessage EditTask(int ID,[FromBody]TaskData Task)
+        public HttpResponseMessage EditTask(int id,[FromBody]TaskData task)
         {
             try
             {
-                TaskManagerBL.EditTask(ID,Task);
+                TaskManagerBL.EditTask(id,task);
                 return Request.CreateResponse(HttpStatusCode.OK, "Success");
             }
             catch(Exception ex)
@@ -57,11 +57,11 @@ namespace TaskManager.API.Controllers
             }
         }
         [HttpDelete]
-        public HttpResponseMessage DeleteTask(int ID)
+        public HttpResponseMessage DeleteTask(int id)
         {
             try
             {
-                TaskManagerBL.DeleteTask(ID);
+                TaskManagerBL.DeleteTask(id);
                 return Request.CreateResponse(HttpStatusCode.OK, "Success");
             }
             catch(Exception ex)

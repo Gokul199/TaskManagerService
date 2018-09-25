@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<test-run id="2" testcasecount="4" result="Passed" total="4" passed="4" failed="0" inconclusive="0" skipped="0" asserts="9" engine-version="3.9.0.0" clr-version="4.0.30319.42000" start-time="2018-09-24 13:54:40Z" end-time="2018-09-24 13:54:58Z" duration="18.646898">
+  <command-line><![CDATA[..\..\..\packages\NUnit.ConsoleRunner.3.9.0\tools\nunit3-console.exe  TaskManager.Test.dll]]></command-line>
+  <test-suite type="Assembly" id="0-1005" name="TaskManager.Test.dll" fullname="C:\Gokul\Capsule\TaskManagerService\TaskManager.Test\bin\Debug\TaskManager.Test.dll" runstate="Runnable" testcasecount="4" result="Passed" start-time="2018-09-24 13:54:46Z" end-time="2018-09-24 13:54:58Z" duration="12.203510" total="4" passed="4" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="9">
+    <environment framework-version="3.10.1.0" clr-version="4.0.30319.42000" os-version="Microsoft Windows NT 10.0.16299.0" platform="Win32NT" cwd="C:\Gokul\Capsule\TaskManagerService\TaskManager.Test\bin\Debug" machine-name="DOTNET" user="Admin" user-domain="DOTNET" culture="en-IN" uiculture="en-US" os-architecture="x64" />
+    <settings>
+      <setting name="DisposeRunners" value="True" />
+      <setting name="WorkDirectory" value="C:\Gokul\Capsule\TaskManagerService\TaskManager.Test\bin\Debug" />
+      <setting name="ImageRuntimeVersion" value="4.0.30319" />
+      <setting name="ImageTargetFrameworkName" value=".NETFramework,Version=v4.5.2" />
+      <setting name="ImageRequiresX86" value="False" />
+      <setting name="ImageRequiresDefaultAppDomainAssemblyResolver" value="False" />
+      <setting name="NumberOfTestWorkers" value="3" />
+    </settings>
+    <properties>
+      <property name="_PID" value="4580" />
+      <property name="_APPDOMAIN" value="domain-" />
+    </properties>
+    <test-suite type="TestSuite" id="0-1006" name="TaskManager" fullname="TaskManager" runstate="Runnable" testcasecount="4" result="Passed" start-time="2018-09-24 13:54:46Z" end-time="2018-09-24 13:54:58Z" duration="12.159185" total="4" passed="4" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="9">
+      <test-suite type="TestSuite" id="0-1007" name="Test" fullname="TaskManager.Test" runstate="Runnable" testcasecount="4" result="Passed" start-time="2018-09-24 13:54:46Z" end-time="2018-09-24 13:54:58Z" duration="12.157437" total="4" passed="4" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="9">
+        <test-suite type="TestFixture" id="0-1000" name="TaskManagerTest" fullname="TaskManager.Test.TaskManagerTest" classname="TaskManager.Test.TaskManagerTest" runstate="Runnable" testcasecount="4" result="Passed" start-time="2018-09-24 13:54:46Z" end-time="2018-09-24 13:54:58Z" duration="12.148670" total="4" passed="4" failed="0" warnings="0" inconclusive="0" skipped="0" asserts="9">
+          <test-case id="0-1001" name="AddTask" fullname="TaskManager.Test.TaskManagerTest.AddTask" methodname="AddTask" classname="TaskManager.Test.TaskManagerTest" runstate="Runnable" seed="2097637413" result="Passed" start-time="2018-09-24 13:54:46Z" end-time="2018-09-24 13:54:58Z" duration="11.735776" asserts="1">
+            <properties>
+              <property name="Order" value="1" />
+            </properties>
+          </test-case>
+          <test-case id="0-1002" name="GetAllTasks" fullname="TaskManager.Test.TaskManagerTest.GetAllTasks" methodname="GetAllTasks" classname="TaskManager.Test.TaskManagerTest" runstate="Runnable" seed="66382841" result="Passed" start-time="2018-09-24 13:54:58Z" end-time="2018-09-24 13:54:58Z" duration="0.279055" asserts="6">
+            <properties>
+              <property name="Order" value="2" />
+            </properties>
+          </test-case>
+          <test-case id="0-1003" name="UpdateTask" fullname="TaskManager.Test.TaskManagerTest.UpdateTask" methodname="UpdateTask" classname="TaskManager.Test.TaskManagerTest" runstate="Runnable" seed="1325380021" result="Passed" start-time="2018-09-24 13:54:58Z" end-time="2018-09-24 13:54:58Z" duration="0.050067" asserts="1">
+            <properties>
+              <property name="Order" value="3" />
+            </properties>
+          </test-case>
+          <test-case id="0-1004" name="DeleteTask" fullname="TaskManager.Test.TaskManagerTest.DeleteTask" methodname="DeleteTask" classname="TaskManager.Test.TaskManagerTest" runstate="Runnable" seed="625456389" result="Passed" start-time="2018-09-24 13:54:58Z" end-time="2018-09-24 13:54:58Z" duration="0.031733" asserts="1">
+            <properties>
+              <property name="Order" value="4" />
+            </properties>
+          </test-case>
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>

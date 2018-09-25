@@ -4,9 +4,9 @@ C:\Gokul\Capsule\TaskManagerService\TaskManager.BusinessLayer\bin\Debug\TaskMana
 C:\Gokul\Capsule\TaskManagerService\TaskManager.BusinessLayer\bin\Debug\TaskManager.EntityModel.dll
 C:\Gokul\Capsule\TaskManagerService\TaskManager.BusinessLayer\bin\Debug\EntityFramework.dll
 C:\Gokul\Capsule\TaskManagerService\TaskManager.BusinessLayer\bin\Debug\TaskManager.DataLayer.pdb
+C:\Gokul\Capsule\TaskManagerService\TaskManager.BusinessLayer\bin\Debug\TaskManager.DataLayer.dll.config
 C:\Gokul\Capsule\TaskManagerService\TaskManager.BusinessLayer\bin\Debug\TaskManager.EntityModel.pdb
 C:\Gokul\Capsule\TaskManagerService\TaskManager.BusinessLayer\bin\Debug\EntityFramework.xml
 C:\Gokul\Capsule\TaskManagerService\TaskManager.BusinessLayer\obj\Debug\TaskManager.BusinessLayer.csprojResolveAssemblyReference.cache
 C:\Gokul\Capsule\TaskManagerService\TaskManager.BusinessLayer\obj\Debug\TaskManager.BusinessLayer.dll
 C:\Gokul\Capsule\TaskManagerService\TaskManager.BusinessLayer\obj\Debug\TaskManager.BusinessLayer.pdb
-C:\Gokul\Capsule\TaskManagerService\TaskManager.BusinessLayer\bin\Debug\TaskManager.DataLayer.dll.config

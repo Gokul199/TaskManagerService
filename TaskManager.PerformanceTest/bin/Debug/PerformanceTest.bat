@@ -1,0 +1,1 @@
+..\..\..\packages\NBench.Runner.1.2.2\tools\net452\NBench.Runner.exe TaskManager.PerformanceTest.dll output-directory="C:\Perf"
